@@ -1,0 +1,7 @@
+C:\Users\Tecnologico\source\repos\Calificacion_Jose_Antonio_FPC\bin\Debug\Calificacion_Jose_Antonio_FPC.exe.config
+C:\Users\Tecnologico\source\repos\Calificacion_Jose_Antonio_FPC\bin\Debug\Calificacion_Jose_Antonio_FPC.exe
+C:\Users\Tecnologico\source\repos\Calificacion_Jose_Antonio_FPC\bin\Debug\Calificacion_Jose_Antonio_FPC.pdb
+C:\Users\Tecnologico\source\repos\Calificacion_Jose_Antonio_FPC\obj\Debug\Calificacion_Jose_Antonio_FPC.csproj.AssemblyReference.cache
+C:\Users\Tecnologico\source\repos\Calificacion_Jose_Antonio_FPC\obj\Debug\Calificacion_Jose_Antonio_FPC.csproj.CoreCompileInputs.cache
+C:\Users\Tecnologico\source\repos\Calificacion_Jose_Antonio_FPC\obj\Debug\Calificacion_Jose_Antonio_FPC.exe
+C:\Users\Tecnologico\source\repos\Calificacion_Jose_Antonio_FPC\obj\Debug\Calificacion_Jose_Antonio_FPC.pdb
